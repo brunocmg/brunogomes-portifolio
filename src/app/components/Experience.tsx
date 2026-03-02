@@ -28,7 +28,7 @@ export function Experience() {
       title: "Trainee de Elétrica e Eletrônica",
       company: "Mandacaru BAJA",
       location: "Salvador, BA",
-      period: "Nov/2024 - Dez/2025",
+      period: "Nov/2024 - Dez/2024",
       description: "Aprendizado e aplicação prática em elétrica e eletrônica voltadas a projetos automotivos, com ênfase no uso de microcontroladores, integração de sensores e desenvolvimento de soluções funcionais.",
       current: false,
     },
